@@ -1,0 +1,28 @@
+body{
+  background-image:url("kyougizyou.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+h1{
+  padding: 0.5em;
+  font-weight:bolder;
+  background-color: rgba(247, 239, 133, 0.658);
+  border-bottom: solid 10px hsla(83, 76%, 50%, 0.599);
+  width:520px;
+}
+#comment1{
+  background-color: rgba(102, 233, 233, 0.521);
+  height: 50px;
+  width:560px;
+}
+#guide{
+  height:200px;
+  background-color: rgba(166, 213, 241, 0.719);
+  border-radius: 30px;
+}
+#hosoku{
+  font-weight:bolder;
+}
+a{
+  color:rgb(241, 245, 9)
+}
